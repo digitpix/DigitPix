@@ -1,0 +1,56 @@
+
+---Downloaded files---
+The import files for: Portfolio Agency were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/Official%20Web
+Data file = C:\MAMP\htdocs\Official Web/wp-content/uploads/2020/12/demo-content-import-file_2020-12-20__01-38-30.xml
+Widget file = C:\MAMP\htdocs\Official Web/wp-content/uploads/2020/12/demo-widgets-import-file_2020-12-20__01-38-30.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+Main Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Tag Cloud - No Title - Widget already exists
+
+shop-sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+woocommerce_product_search - No Title - Site does not support widget
+woocommerce_price_filter - Filter by price - Site does not support widget
+woocommerce_widget_cart - Cart - Site does not support widget
+woocommerce_top_rated_products - Top rated products - Site does not support widget
+
+Footer Sidebar 1 : 
+
+Text - No Title - Widget already exists
+
+Footer Sidebar 2 : 
+
+Text - Let&#039;s Talk - Widget already exists
+
+Footer Sidebar 3 : 
+
+Text - Find Us - Widget already exists
+
+Footer Sidebar 4 : 
+
+Text - Follow Us - Widget already exists
+
+Sliding Bar Sidebar : 
+
+Custom HTML - Start Now - Widget already exists
+Text - About Us - Widget already exists
+Recent Posts - No Title - Widget already exists
+Navigation Menu - Quick Menu - Widget already exists
+Tag Cloud - Tag Cloud - Widget already exists
+
+
+
+---pt-ocdi/after_import---
+
